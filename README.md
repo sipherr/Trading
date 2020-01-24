@@ -14,6 +14,8 @@ AVGO - Broadcom
 TU   - Telus  
 PNG  - Procter & Gamble
 JNJ  - Johnson and Johnson  
+V    - Visa
+VZ   - Verizon
 
 
 
