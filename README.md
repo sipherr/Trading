@@ -12,17 +12,17 @@ I will break this out by sector. "Diversification" simply means buying stocks th
 
 AVGO - Broadcom  
 TU   - Telus  
-PNG  - Procter & Gamble
+PNG  - Procter & Gamble  
 JNJ  - Johnson and Johnson  
-V    - Visa
-VZ   - Verizon
+V    - Visa  
+VZ   - Verizon  
 
 
 
 ## Canadian equities
 
-TD   - Toronto Dominion Bank
-RBC  - Royal bank of Canada
+TD   - Toronto Dominion Bank  
+RBC  - Royal bank of Canada  
 
 ## Other
 Bitcoin :) - This may sound like a joke...but patiently, timed market moves on your behalf can pay a HUGE return. Give exmaple later..
