@@ -8,7 +8,12 @@ I will create a new trading account with a big Canadian bank and produce a $10,0
 # Stocks to Watch
 
 ## US Equities
+I will break this out by sector. "Diversification" simply means buying stocks that service different industries.
+
 AVGO - Broadcom
-JNJ  - J
+JNJ  - Johnson and Johnson
 
 ## Canadian equities
+
+## Other
+Bitcoin :) - This may sound like a joke...but patiently, timed market moves on your behalf can pay a HUGE return. Give exmaple later..
